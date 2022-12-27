@@ -148,7 +148,7 @@ if(robot.getX()==Xx && robot.getY()==Yy){
 
         public static void moveRobot(Robot robot, int toX, int toY) {
             //пишите код тут
-
+            ///...
                 }
             }
 
